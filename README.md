@@ -13,3 +13,10 @@ I enjoyed the Git course on Udacity. Regarding `learngitbranching.js.org` I need
 I really appreciate all you've done and the enormous amount of you time you share with us. 
 
 Thank you, front-end beasts!
+
+## Linux CLI, and HTTP
+
+[Module 1](/task_linux_cli/module-1.png)
+[Module 2](/task_linux_cli/)
+[Module 3](/task_linux_cli/)
+[Module 4](/task_linux_cli/)
