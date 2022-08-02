@@ -19,4 +19,4 @@ Thank you, front-end beasts!
 1.  [Module 1](/task_linux_cli/module-1.jpg)
 1. [Module 2](/task_linux_cli/module-2.jpg)
 1. [Module 3](/task_linux_cli/module-3.jpg)
-1. [Module 4](/task_linux_cli/)
+1. [Module 4](/task_linux_cli/module-4.jpg)
