@@ -27,3 +27,10 @@ In secont part I was learning what HTTP is. What is the difference between HTTP 
 Although part 2 seemed to me a little bit overwhelming due to amount  of theoretical information, I liked those articles.
 
 Supplementary I watched a video from KharkivJS ["A tale about one request"](https://www.youtube.com/watch?v=uXXdYCd93F8&ab_channel=KharkivJSCommunity), that helped me to realize how the global networking works step by step. 
+
+## Git Collaboration
+
+1.  [Basics](/task_git_collaboration/git-collaboration1.jpg)
+1. [Remote repositories](/task_git_collaboration/git-collaboration2.jpg)
+
+As for me, gamification of the learning process is always a good idea. And such a course isn't an exception. I liked the way how lessons were designed. Now I have powerful tools for collaborative work and work using Version Control System in my toolbox. However, I guess some lessons had more theoretical value, I mean that there were cases when it was difficult to imagine what is the purpose to use all of the tools/commands in practice. Maybe I just need more practice.  
