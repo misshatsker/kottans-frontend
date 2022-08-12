@@ -34,3 +34,6 @@ Supplementary I watched a video from KharkivJS ["A tale about one request"](http
 1. [Remote repositories](/task_git_collaboration/git-collaboration2.jpg)
 
 As for me, gamification of the learning process is always a good idea. And such a course isn't an exception. I liked the way how lessons were designed. Now I have powerful tools for collaborative work and work using Version Control System in my toolbox. However, I guess some lessons had more theoretical value, I mean that there were cases when it was difficult to imagine what is the purpose to use all of the tools/commands in practice. Maybe I just need more practice.  
+## Intro to HTML and CSS
+1.  [Udacity Intro to HTML and CSS](/intro_to_HTML_and_CSS/udacity_html_css.jpg)
+1. [codecademy Learn HTML, Learn CSS](/intro_to_HTML_and_CSS/css_html.jpg)
