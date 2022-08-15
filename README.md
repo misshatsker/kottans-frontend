@@ -53,4 +53,4 @@ Excited to start diving into responsive Web Design.
 
 I found lectures useful as far as it was unclear for me how to build responsive layout and what it actually means) 
 
-I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented   than carots for me), maybe I just need more practice. 
+I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented  than carrots for me), maybe I just need more practice. 
