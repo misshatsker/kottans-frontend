@@ -45,3 +45,12 @@ During learning that section I got fundamental knowledge in layouts building and
 Despite it took more time than I expected, I've got a full picture of how to work with a variety of elements, including semantic ones, and how to build tables and forms. In the CSS course, I picked up how to apply styles to elements.
 
 Excited to start diving into responsive Web Design.
+
+## Responsive Web Design
+
+1.  [Flexbox Froggy ](/responsive_web_design/frog.jpg)
+1. [Grid Garden ](/responsive_web_design/garden.jpg)
+
+I found lectures useful as far as it was unclear for me how to build responsive layout and what it actually means) 
+
+I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented   than carots for me), maybe I just need more practice. 
