@@ -54,3 +54,11 @@ Excited to start diving into responsive Web Design.
 I found lectures useful as far as it was unclear for me how to build responsive layout and what it actually means) 
 
 I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented  than carrots for me), maybe I just need more practice. 
+
+## HTML and CSS practice
+- [Demo](https://misshatsker.github.io/hooli-style-popup/)
+
+- [Code base](https://github.com/misshatsker/hooli-style-popup)
+
+- [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/203)
+
