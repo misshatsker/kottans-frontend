@@ -62,3 +62,13 @@ I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented  than car
 
 - [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/203)
 
+## JS Basics
+1.  [Coursera ](/js_basics/coursera.jpg)
+1. [Basic JS ](/js_basics/jsbasics.jpg)
+1.  [ES6 ](/js_basics/es6.jpg)
+1. [Basic Data Structures ](/js_basics/datastructure.jpg)
+1.  [Basic Algorithm Scripting ](/js_basics/basicalgorithm.jpg)
+1. [Functional Programming ](/js_basics/functional.jpg)
+1. [Intermediate Algorithm Scripting ](/js_basics/intermediaalgorithm.jpg)
+
+This was the most challenging module for me so far. It a challenging from a variety of perspectives. It took me more time than I'd expected even for some basic modules. And the volume of new information sometimes overwhelmed me. But I hope it's just a matter of time to become a master. 
