@@ -72,3 +72,11 @@ I enjoyed flexbox tutorials (frogs seemed to be more friendly-oriented  than car
 1. [Intermediate Algorithm Scripting ](/js_basics/intermediaalgorithm.jpg)
 
 This was the most challenging module for me so far. It a challenging from a variety of perspectives. It took me more time than I'd expected even for some basic modules. And the volume of new information sometimes overwhelmed me. But I hope it's just a matter of time to become a master. 
+
+## DOM
+
+1.  [Coursera ](/task_js_dom/coursera.jpg)
+1. [freecodecamp Algorithm Scripting Challenges ](/task_js_dom/12-18.jpg)
+
+I've accomplished a task related to DOM. The result of it seemed to have more meaningful value, which could be considered as a tiny part of some web-site. Also, I've completed 2nd part of the algorithms topic, despite I've stuck for a while on a task based on math.
+By and large, DOM seems more clear from a usage perspective in web development. Also, I'm going to learn materials from an additional section to have a better understanding.
