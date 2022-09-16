@@ -81,6 +81,12 @@ This was the most challenging module for me so far. It a challenging from a vari
 I've accomplished a task related to DOM. The result of it seemed to have more meaningful value, which could be considered as a tiny part of some web-site. Also, I've completed 2nd part of the algorithms topic, despite I've stuck for a while on a task based on math.
 By and large, DOM seems more clear from a usage perspective in web development. Also, I'm going to learn materials from an additional section to have a better understanding.
 
+## Building a Tiny JS World
+
+1.  [Demo](https://misshatsker.github.io/a-tiny-JS-world/)
+
+
+
 ## Object Oriented JS
 
 1.  [Сodewars](/object_oriented_javascript/codewars.jpg)
