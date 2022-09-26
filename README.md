@@ -90,6 +90,22 @@ By and large, DOM seems more clear from a usage perspective in web development. 
 ## Object Oriented JS
 
 1.  [Сodewars](/object_oriented_javascript/codewars.jpg)
+2. [Demo](https://misshatsker.github.io/frontend-nanodegree-arcade-game/)
+
+## OOP Exercis
+
+1.  [Demo](https://misshatsker.github.io/a-tiny-JS-world/)
+
+## Memory Pair Game
+
+1.  [Demo](https://misshatsker.github.io/memory-game/)
+
+## Friends App
+
+1. [Demo](https://misshatsker.github.io/friends-app/)
+
+
+
 
 
  
