@@ -91,6 +91,9 @@ By and large, DOM seems more clear from a usage perspective in web development. 
 
 1.  [Сodewars](/object_oriented_javascript/codewars.jpg)
 2. [Demo](https://misshatsker.github.io/frontend-nanodegree-arcade-game/)
+3. [Code base](https://github.com/misshatsker/frontend-nanodegree-arcade-game)
+
+A lot of new information for me again. Programming never ceases to amaze me. I never in my life thought that one day I would be able to implement a game. It is very cool, although difficult.
 
 ## OOP Exercis
 
