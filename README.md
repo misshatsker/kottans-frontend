@@ -99,6 +99,12 @@ A lot of new information for me again. Programming never ceases to amaze me. I n
 
 1.  [Demo](https://misshatsker.github.io/a-tiny-JS-world/)
 
+## Offline Web Applications
+
+1.  [Udacity Offline Web Applications](/task-offline-web-app/udacity.jpg)
+
+I have never wondered how information is displayed when there is no access to the Internet. So this section was somewhat magical for me. This course covers all the important cases I can meet when I will be a programmer, but I cannot say that I have learned 100% of the information at this stage. I got acquainted. I now know that such a thing exists. 
+
 ## Memory Pair Game
 
 1.  [Demo](https://misshatsker.github.io/memory-game/)
